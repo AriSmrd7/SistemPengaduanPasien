@@ -5,6 +5,7 @@ pada sarana, prasarana atau pelayanan yang diberikan oleh Puskesmas. Terdapat ti
 
 ## Screenshot 
 ![screenshot](ss.png)
+![screenshot](ss2.png)
 
 ## Prerequisites
 * WAMPP/XAMPP Server
