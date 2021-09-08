@@ -14,4 +14,6 @@ pada sarana, prasarana atau pelayanan yang diberikan oleh Puskesmas. Terdapat ti
 ## How To Use
 * Clone or Download this repository
 * Place the folder to /htdocs/
+* Create database pengaduan_db in phpmyadmin
+* Import file __pengaduan_db(2).sql__ to your database
 * Run project from your browser
