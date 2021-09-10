@@ -2,7 +2,7 @@
 ## Information
 Sistem layananan pengaduan merupakan sebuah website yang berfungsi untuk mewadahi komplain-komplain dari masyarakat atau pasien
 pada sarana, prasarana atau pelayanan yang diberikan oleh Puskesmas. Terdapat tiga hak akses di website ini, yaitu masyarakat yang dapat membuat pengaduan serta admin dan petugas yang dapat membalas pengaduan yang diberikan oleh masyarakat. 
-[Demo aplikasi](http://arismrd.my.id/pengaduan)
+[Demo aplikasi](https://pengaduan.arisumardi.my.id/)
 
 ## Screenshot 
 ![screenshot](ss.png)
