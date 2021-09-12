@@ -1,0 +1,10 @@
+# Disable directory browsing
+Options All -Indexes
+
+<IfModule !mod_rewrite.c>
+    RewriteEngine On
+	# If we don't have mod_rewrite installed, all 404's
+	# can be sent to index.php, and everything works as normal.
+	ErrorDocument 404
+	ErrorDocument 403
+</IfModule>
