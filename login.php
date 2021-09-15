@@ -74,7 +74,7 @@
                   </div>
                 </div>
 
-                <!-- Informasi login -->
+                <!-- Informasi login
                 <div class="login-form">
                     <div class="text-center text-danger"><h5>Informasi Login Masyarakat/Pasien</h5></div>
                     <table class="table table-responsive table-condensed table-hover">
@@ -89,7 +89,8 @@
                         <td class="text-success">masyarakat</td>
                       </tr>
                     </table>
-                </div>
+                </div-->
+
               </div>
             </div>
           </div>
