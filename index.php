@@ -3,7 +3,7 @@
 
     // cek apakah yang mengakses halaman ini sudah login
 	if(empty($_SESSION['email'])){
-		header("location:login.php?pesan=no");
+		header("location:login.php");
 	}
   $page = "Dashboard";
 
