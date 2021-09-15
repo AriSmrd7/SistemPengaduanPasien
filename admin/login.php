@@ -77,7 +77,7 @@
                   </div>
                 </div>
 
-              <!-- Informasi login -->
+              <!-- Informasi login 
                 <div class="login-form">
                     <div class="text-center text-danger"><h5>Informasi Login Admin dan Petugas</h5></div>
                     <table class="table table-responsive table-condensed table-hover">
@@ -109,6 +109,7 @@
                       </tr>
                     </table>
                 </div>
+                -->
               </div>
             </div>
           </div>
